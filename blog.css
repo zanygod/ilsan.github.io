@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family:'Times New Roman', Times, serif;
+  background: rgb(77, 198, 216);
+  color: black;
+}
+.header {
+  height: 10vh;
+  width: 20%;
+    color: rgb(255, 255, 255);
+}
+.img
+{
+    width: 200px;
+    height: 200px;
+    font-size: 50px;
+}
+
+.table, th, td {
+  border: 1px solid;
+}
